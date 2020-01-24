@@ -1,5 +1,6 @@
 <?php
 
+// require_once('../load.php');
 include_once('../config/database.php');
 include_once('../config/database_old.php');
 
